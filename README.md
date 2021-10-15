@@ -7,4 +7,4 @@ This page is different from the original version I started when I began playing 
 #### Sub Header Text
 
 
-![headshot] (IMG_1041.JPG)
+![headshot](IMG_1041.JPG)
